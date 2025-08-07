@@ -1,0 +1,3 @@
+NAME: Pallavi.P
+COURSE:BCA 
+Git hub is used to store and also wide users can access the project when it is kept publicly
